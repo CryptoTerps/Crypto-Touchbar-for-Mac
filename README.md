@@ -20,6 +20,16 @@ This is an add on (via Better Touch Tool) to get Cryptocurrency prices on your M
 - **Adex** - Pulled from CryptoCompare.com API.
 - **Tierion** - Pulled from CryptoCompare.com API. 
 
+# To Install
+
+Download and install [Better Touch Tool](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/BetterTouchTool.zip). It allows you to modify your touch bar and customize various functions on your MacBook. 
+
+Right-click and download this file [CryptoTerps Touchbar.json](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/BetterTouchTool.zip) to your desktop.
+In your Mac's menu bar, click the Better Touch Tool icon > Preferences.
+In the bottom left corner of the popup go to "Manage Presets".
+Click the "Import" button and select the crypto-krunkosaurus.json file you downloaded. Viola you're done!
+If you want support for TenX, repeat step 5 with tenx.json. Note that you can toggle these separate presets on and off. More to come!
+
 
 Notes:
 
