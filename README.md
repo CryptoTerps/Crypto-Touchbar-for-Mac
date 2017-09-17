@@ -45,8 +45,11 @@ Bonus feature: If you click the button it will pull up the specific coin page on
 
 - In the Better Touch Tool preferences panel, you can add, delete, and rearrange the currencies by dragging/dropping.
 
+# Acknowledgments
 
-I am not the original author of this script. I merely improved, optimized, and extended it to support more cryptocurrencies and other features. The original idea came from here. Still some people have mentioned wanting to donate so here's how if you like:
+I am not the original author of this script. I merely improved, optimized, and extended it to support more cryptocurrencies and other features. 
+
+The original idea came from [here](https://steemit.com/neo/@awesomemo/get-the-latest-price-of-neo-on-your-macbook-touchbar). Still some people have mentioned wanting to donate so here's how if you like:
 
 Donate Ethereum: 0xef85168a3E7d6D69Ba6A4Ea055F651E49f7A89De
 
@@ -55,7 +58,5 @@ History
 V1.1: Support for displaying USD value of BTC, ETH, LTC, NEO, OMG, TenX, Rise, PTOY, STRAT, ZRX, MTH, STX, ADX, TNT, LTC.
 
 *IF YOU HAVE REQUESTS FOR NEW COINS, LET ME KNOW!* 
-
-Acknowledgments
 
 Thanks to the original source here that my modified/optimized version is based on.
