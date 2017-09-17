@@ -55,7 +55,7 @@ The original idea came from [This Steemit Article](https://steemit.com/neo/@awes
 2. Donate Bitcoin: 1DoKTRb3XmQwcEtjLQq9Yb6SoeMBbnEBAr
 3. Donate NEO: AL6gNUhvUFZ1ywYo3rPyNzojJXLPiJPcXz
 
-History
+# History
 
 V1.1: Support for displaying USD value of BTC, ETH, LTC, NEO, OMG, TenX, Rise, PTOY, STRAT, ZRX, MTH, STX, ADX, TNT, LTC.
 
