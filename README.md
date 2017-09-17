@@ -2,7 +2,7 @@
 
 Some people have mentioned wanting to donate so here's how if you'd like! :
 
-1. Donate Ethereum: 0xef85168a3E7d6D69Ba6A4Ea055F651E49f7A89De
+1. Donate Ethereum: 0x6A1Dd21901D16a4CdF2A69CA2e8393b3e62d18c5
 2. Donate Bitcoin: 1DoKTRb3XmQwcEtjLQq9Yb6SoeMBbnEBAr
 3. Donate NEO: AL6gNUhvUFZ1ywYo3rPyNzojJXLPiJPcXz
 
