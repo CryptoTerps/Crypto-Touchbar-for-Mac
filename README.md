@@ -1,6 +1,8 @@
 # Crypto-Touchbar-for-Mac
 This is an add on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
-Currently supported coins:
+
+
+**Currently supported coins:**
 
 - **Bitcoin** - Pulled from CryptoCompare.com API.
 - **Ethereum** - Pulled from Cryptocompare.com API.
