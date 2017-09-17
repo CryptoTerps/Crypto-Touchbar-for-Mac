@@ -35,10 +35,10 @@
 
 # Notes:
 
-All values are in USD other than **NEO/BTC**
-All values (except for *Neo/BTC) taken from CryptoCompare.com - Market Price API. 
+- All values are in USD other than **NEO/BTC**
+- All values (except for *Neo/BTC) taken from CryptoCompare.com - Market Price API. 
 *Taken from Bittrex
-Bonus feature: If you click the button it will pull up the specific coin page on the Exchange.
+- Bonus feature: If you click the button it will pull up the specific coin page on the Exchange.
 
 
 # Customization
