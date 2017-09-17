@@ -2,8 +2,8 @@
 This is an add on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
 Currently supported coins:
 
-Bitcoin - Pulled from CryptoCompare.com API.
-Ethereum - Pulled from Cryptocompare.com API.
+1. Bitcoin - Pulled from CryptoCompare.com API.
+2. Ethereum - Pulled from Cryptocompare.com API.
 Litecoin - Pulled from Cryptocompare.com API.
 Neo/USD - Pulled from Cryptocompare.com API.
 NEO/BTC - Pulled from Bittrex.com API
@@ -16,7 +16,8 @@ Patientory - Pulled from CryptoCompare.com API.
 Stratis - Pulled from CryptoCompare.com API.
 0x Project (ZRX) - Pulled from CryptoCompare.com API.
 Adex - Pulled from CryptoCompare.com API.
-Tierion - Pulled from CryptoCompare.com API.
+Tierion - Pulled from CryptoCompare.com API. 
+
 
 Notes:
 
