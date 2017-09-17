@@ -23,7 +23,7 @@
 - **Adex** - Pulled from CryptoCompare.com API.
 - **Tierion** - Pulled from CryptoCompare.com API. 
 
-# To Install
+# Installation
 
 - Download and install [Better Touch Tool](https://www.boastr.net/downloads/). It allows you to modify your touch bar and customize various functions on your MacBook. 
 - Right-click and download this file [CryptoTerps Touchbar.json](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/CryptoTerps%20TouchBar.json.zip) to your desktop.
@@ -57,6 +57,6 @@ History
 
 V1.1: Support for displaying USD value of BTC, ETH, LTC, NEO, OMG, TenX, Rise, PTOY, STRAT, ZRX, MTH, STX, ADX, TNT, LTC.
 
-*IF YOU HAVE REQUESTS FOR NEW COINS, LET ME KNOW!* 
+**IF YOU HAVE REQUESTS FOR NEW COINS, LET ME KNOW!**
 
 Thanks to the original source here that my modified/optimized version is based on.
