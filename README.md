@@ -57,7 +57,7 @@ The original idea came from [This Steemit Article](https://steemit.com/neo/@awes
 
 # History
 
-V1.1: Support for displaying USD value of BTC, ETH, LTC, NEO, OMG, TenX, Rise, PTOY, STRAT, ZRX, MTH, STX, ADX, TNT, LTC.
+V1.0: Support for displaying USD value of BTC, ETH, LTC, NEO, OMG, TenX, Rise, PTOY, STRAT, ZRX, MTH, STX, ADX, TNT, LTC.
 
 **IF YOU HAVE REQUESTS FOR NEW COINS, LET ME KNOW!**
 
