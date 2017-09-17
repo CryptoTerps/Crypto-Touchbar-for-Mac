@@ -2,26 +2,26 @@
 This is an add on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
 Currently supported coins:
 
-- •  Bitcoin - Pulled from CryptoCompare.com API.
-- •  Ethereum - Pulled from Cryptocompare.com API.
-- •  Litecoin - Pulled from Cryptocompare.com API.
-- •  Neo/USD - Pulled from Cryptocompare.com API.
-•  NEO/BTC - Pulled from Bittrex.com API
-•  Monetha - Pulled from CryptoCompare.com API.
-•  TenX - Pulled from CryptoCompare.com API. 
-•  OmiseGo - Pulled from CryptoCompare.com API. 
-•  Rise - Pulled from CryptoCompare.com API.
-•  Stox - Pulled from CryptoCompare.com API.
-•  Patientory - Pulled from CryptoCompare.com API.
-•  Stratis - Pulled from CryptoCompare.com API.
-•  0x Project (ZRX) - Pulled from CryptoCompare.com API.
-•  Adex - Pulled from CryptoCompare.com API.
-•  Tierion - Pulled from CryptoCompare.com API. 
+- **Bitcoin** - Pulled from CryptoCompare.com API.
+- **Ethereum** - Pulled from Cryptocompare.com API.
+- **LiteCoin** - Pulled from Cryptocompare.com API.
+- **Neo/USD** - Pulled from Cryptocompare.com API.
+- **NEO/BTC** - Pulled from Bittrex.com API
+- **Monetha** - Pulled from CryptoCompare.com API.
+- **TenX** - Pulled from CryptoCompare.com API. 
+- **OmiseGo** - Pulled from CryptoCompare.com API. 
+- **Rise** - Pulled from CryptoCompare.com API.
+- **Stox** - Pulled from CryptoCompare.com API.
+- **Patientory** - Pulled from CryptoCompare.com API.
+- **Stratis** - Pulled from CryptoCompare.com API.
+- **0x Project** (ZRX) - Pulled from CryptoCompare.com API.
+- **Adex** - Pulled from CryptoCompare.com API.
+- **Tierion** - Pulled from CryptoCompare.com API. 
 
 
 Notes:
 
-All values are in USD other than *NEO/BTC*
+All values are in USD other than **NEO/BTC**
 All values (except for #9) taken from CryptoCompare.com - Market Price API. 
 Bonus feature: If you click the button it will pull up the specific coin page on the Exchange.
 
