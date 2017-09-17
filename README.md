@@ -2,10 +2,10 @@
 This is an add on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
 Currently supported coins:
 
-•  Bitcoin - Pulled from CryptoCompare.com API.
-•  Ethereum - Pulled from Cryptocompare.com API.
-•  Litecoin - Pulled from Cryptocompare.com API.
-•  Neo/USD - Pulled from Cryptocompare.com API.
+- •  Bitcoin - Pulled from CryptoCompare.com API.
+- •  Ethereum - Pulled from Cryptocompare.com API.
+- •  Litecoin - Pulled from Cryptocompare.com API.
+- •  Neo/USD - Pulled from Cryptocompare.com API.
 •  NEO/BTC - Pulled from Bittrex.com API
 •  Monetha - Pulled from CryptoCompare.com API.
 •  TenX - Pulled from CryptoCompare.com API. 
