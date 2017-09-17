@@ -51,9 +51,9 @@ I am not the original author of the main script. I merely improved, optimized, a
 
 The original idea came from [here](https://steemit.com/neo/@awesomemo/get-the-latest-price-of-neo-on-your-macbook-touchbar). Still some people have mentioned wanting to donate so here's how if you'd like! :
 
-**- Donate Ethereum: 0xef85168a3E7d6D69Ba6A4Ea055F651E49f7A89De**
-**- Donate Bitcoin: 1DoKTRb3XmQwcEtjLQq9Yb6SoeMBbnEBAr**
-**- Donate NEO: AL6gNUhvUFZ1ywYo3rPyNzojJXLPiJPcXz**
+1. Donate Ethereum: 0xef85168a3E7d6D69Ba6A4Ea055F651E49f7A89De
+2. Donate Bitcoin: 1DoKTRb3XmQwcEtjLQq9Yb6SoeMBbnEBAr
+3. Donate NEO: AL6gNUhvUFZ1ywYo3rPyNzojJXLPiJPcXz
 
 History
 
