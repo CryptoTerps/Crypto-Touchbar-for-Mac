@@ -1,5 +1,12 @@
 # Crypto-Touchbar-for-Mac
 
+Some people have mentioned wanting to donate so here's how if you'd like! :
+
+1. Donate Ethereum: 0xef85168a3E7d6D69Ba6A4Ea055F651E49f7A89De
+2. Donate Bitcoin: 1DoKTRb3XmQwcEtjLQq9Yb6SoeMBbnEBAr
+3. Donate NEO: AL6gNUhvUFZ1ywYo3rPyNzojJXLPiJPcXz
+
+
 ![screenshot](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/IMG_3452.JPG)
 
 *This is an add-on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
@@ -49,11 +56,7 @@
 
 I am not the original author of the main script. I merely improved, optimized, and extended it to support more cryptocurrencies and other features. 
 
-The original idea came from [This Steemit Article](https://steemit.com/neo/@awesomemo/get-the-latest-price-of-neo-on-your-macbook-touchbar) and [KrunkoSaurus' Github](https://github.com/krunkosaurus/bettertouchtool-crypto). Still some people have mentioned wanting to donate so here's how if you'd like! :
-
-1. Donate Ethereum: 0xef85168a3E7d6D69Ba6A4Ea055F651E49f7A89De
-2. Donate Bitcoin: 1DoKTRb3XmQwcEtjLQq9Yb6SoeMBbnEBAr
-3. Donate NEO: AL6gNUhvUFZ1ywYo3rPyNzojJXLPiJPcXz
+The original idea came from [This Steemit Article](https://steemit.com/neo/@awesomemo/get-the-latest-price-of-neo-on-your-macbook-touchbar) and [KrunkoSaurus' Github](https://github.com/krunkosaurus/bettertouchtool-crypto). 
 
 # History
 
