@@ -1,9 +1,8 @@
 # Crypto-Touchbar-for-Mac
 
-
 ![screenshot](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/IMG_3452.JPG)
 
-This is an add on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
+*This is an add-on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
 
 
 **Currently supported coins:**
@@ -26,36 +25,26 @@ This is an add on (via Better Touch Tool) to get Cryptocurrency prices on your M
 
 # To Install
 
-Download and install [Better Touch Tool](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/BetterTouchTool.zip). It allows you to modify your touch bar and customize various functions on your MacBook. 
+1.Download and install [Better Touch Tool](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/BetterTouchTool.zip). It allows you to modify your touch bar and customize various functions on your MacBook. 
+2. Right-click and download this file [CryptoTerps Touchbar.json](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/BetterTouchTool.zip) to your desktop.
+3. In your Mac's menu bar, click the Better Touch Tool `icon > Preferences`
+4. In the bottom left corner of the popup go to "Manage Presets".
+5. Click the "Import" button and select the `CryptoTerps Touchbar.json` file you downloaded. 
+6. **ENJOY!**
 
-Right-click and download this file [CryptoTerps Touchbar.json](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/BetterTouchTool.zip) to your desktop.
-In your Mac's menu bar, click the Better Touch Tool icon > Preferences.
-In the bottom left corner of the popup go to "Manage Presets".
-Click the "Import" button and select the crypto-krunkosaurus.json file you downloaded. Viola you're done!
-If you want support for TenX, repeat step 5 with tenx.json. Note that you can toggle these separate presets on and off. More to come!
 
-
-Notes:
+# Notes:
 
 All values are in USD other than **NEO/BTC**
-All values (except for #9) taken from CryptoCompare.com - Market Price API. 
+All values (except for *Neo/BTC) taken from CryptoCompare.com - Market Price API. 
+*Taken from Bittrex
 Bonus feature: If you click the button it will pull up the specific coin page on the Exchange.
 
 
-Once installed, you can delete any coins you are not interested in tracking.
-To Install
+# Customization
 
-Download and install Better Touch Tool. It allows you to modify your touch bar and other cool things. It's a 45-day trial but "pay what you like" to register.
-Right-click and download this file CryptoTerps Touchbar.json to your desktop.
-In your Mac's menu bar, click the Better Touch Tool icon > Preferences.
-In the bottom left corner of the popup go to "Manage Presets".
-Click the "Import" button and select the CryptoTerps Touchbar.json file you downloaded. Viola you're done!
-If you want support for TenX, repeat step 5 with tenx.json. Note that you can toggle these separate presets on and off. More to come!
-Customization
+- In the Better Touch Tool preferences panel, you can add, delete, and rearrange the currencies by dragging/dropping.
 
-In the Better Touch Tool preferences panel, you can add, delete, and rearrange the currencies.
-Timing: Currently each currency is refreshed every 60 seconds. Change this by going to Better Touch Tool preferences panel, clicking on a currency, going to "advanced configuration", and adjusting the "run script every x seconds" amount. It's not recommended to go under 30 seconds or the server could ban you.
-Donations
 
 I am not the original author of this script. I merely improved, optimized, and extended it to support more cryptocurrencies and other features. The original idea came from here. Still some people have mentioned wanting to donate so here's how if you like:
 
