@@ -1,7 +1,7 @@
 # Crypto-Touchbar-for-Mac
 
 
-[screenshot](Crypto-Touchbar-for-Mac/IMG_3452.JPG)
+[screenshot](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/IMG_3452.JPG)
 
 This is an add on (via Better Touch Tool) to get Cryptocurrency prices on your MacBook Touchbar
 
