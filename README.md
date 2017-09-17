@@ -26,7 +26,7 @@
 # To Install
 
 - Download and install [Better Touch Tool](https://www.boastr.net/downloads/). It allows you to modify your touch bar and customize various functions on your MacBook. 
-- Right-click and download this file [CryptoTerps Touchbar.json](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/CryptoTerps%20TouchBar.json) to your desktop.
+- Right-click and download this file [CryptoTerps Touchbar.json](https://github.com/CryptoTerps/Crypto-Touchbar-for-Mac/blob/master/CryptoTerps%20TouchBar.json.zip) to your desktop.
 - In your Mac's menu bar, click the Better Touch Tool `icon > Preferences`
 - In the bottom left corner of the popup go to "Manage Presets".
 - Click the "Import" button and select the `CryptoTerps Touchbar.json` file you downloaded. 
