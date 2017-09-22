@@ -1,0 +1,1 @@
+${HOME}/.nvm/versions/node/v8.4.0/bin/node ${HOME}/Documents/blockfolio-touchbar/index.js $1

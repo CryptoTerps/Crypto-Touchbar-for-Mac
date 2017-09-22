@@ -1,0 +1,23 @@
+{
+  "name": "blockfolio-touchbar",
+  "version": "1.0.0",
+  "description": "Displays your portfolio value using Blockfolio API on MacBook Pro Touch Bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezisezis/blockfolio-touchbar.git"
+  },
+  "author": "Eduards Klavins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezisezis/blockfolio-touchbar/issues"
+  },
+  "homepage": "https://github.com/ezisezis/blockfolio-touchbar#readme",
+  "dependencies": {
+    "electron": "^1.7.6",
+    "node-fetch": "1.7.3"
+  }
+}
